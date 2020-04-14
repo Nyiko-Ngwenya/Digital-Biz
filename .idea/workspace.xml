@@ -2,87 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14b113da-3b8b-464b-bb41-1b29bb70bda7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/first_app/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/02-how-big-how-blue-how-beautiful-florence-machine.w529.h352.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/06EARLCOV-superJumbo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1035x1553-h_14542938.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/131204-Lollapalooza-12-Chance-the-Rapper-year-in-music.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1374775640_23307eb4c68152f0c0b3958f5ddef330.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1547854b19334c1ac52161f8d83fe533.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/2014-07-31-erickarcelliot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/304393.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/350x700px-LL-42be2370_500x1000px-LL-68b2b0d8_image.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/4791f9e319e388fcd7a016991bccd78c.1000x563x1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/6282864600_31a494e253_b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/79b9e9e502111312a9bdf83468efeedf-d6jwp0q.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/84b8e597f13e02c7b7122f7ec18d3208.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/8ylegrhmnc121.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Conscience copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/DSC_9912.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Dave-Grohl3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Florence-And-The-Machine-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Jay-Rock-Drops-90050-Album-Artwork-Track-List-640x392.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Jimi-Hendrix-pop-art-ppcorn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/KID_CUDI_9FIVE_glasses_sunglasses_large.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Kid-Cudi-Speaks-on-Homosexual-Scene-in-His-Film-News-FDRMX.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/MI0001405822.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/aad03c955f314835baa536be4e9caa5a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/andre3000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/asap-rocky-130216.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/awe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/awe.html.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/chance-the-rapper-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cudi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dc534786327218551b8580f82f79dee2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/dee0627-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/design-1302120266_8350.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/earl-sweatshirt-exit-interview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/eminem-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/eminem-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/fabolous.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/flatbush-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/florence-and-the-machine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/florence_and_the_machine_by_escmymind.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/florence_by_tomreece-d3dfr23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/florence_the_machine_confirm_o2_dublin_2012_live_concert_date_for_wednesday_december_12th_buy_tickets_farewell_fancy_dress_party_gig_show_announced_music_scene_ireland.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/img_2134.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/j-cole-946-getty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/j-cole-hair--1452075597-article-0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/j1-black-red.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/jcole-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/jimi_hendrix.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/kanye_west.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/kid_cudi_wallpaper_by_bennfx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/lupe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/maxresdefault (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/maxresdefault (2).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/maxresdefault (3).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/nas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/nike-air-huarache-black-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/nike-kd-9-mic-drop-official-sneaker-release-dates-2016-thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/nyckcautiondisguisethelimit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pharrell.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/q_tip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/raury.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/rocky.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/that-good-dubai-eazy-e-death-conspiracy-Eazy-E.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tyler.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tyler_the_creator615x462.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/vibe-lupe-fiasco-twitter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/vic-mensa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/vic.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/digitalbiz/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/digitalbiz/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_app/templates/first_app/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/templates/first_app/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_app/templates/first_app/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/templates/first_app/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_app/templates/first_app/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/templates/first_app/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_app/templates/first_app/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/templates/first_app/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_app/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +15,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="138">
               <caret line="8" column="50" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="50" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -107,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_app/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="61" lean-forward="true" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+            <state relative-caret-position="115">
+              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -119,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_app/templates/first_app/navbar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+            <state relative-caret-position="828">
+              <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -128,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
+            <state relative-caret-position="529">
               <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
               <folding>
                 <element signature="e#0#44#0" expanded="true" />
@@ -157,18 +77,14 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first_app/templates/first_app/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="23">
+              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -176,8 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+            <state relative-caret-position="1978">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
             </state>
           </provider>
         </entry>
@@ -224,9 +140,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="y" value="140" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="514" />
+    <option name="y" value="301" />
     <option name="width" value="974" />
     <option name="height" value="1036" />
   </component>
@@ -292,14 +208,23 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="514" y="301" width="974" height="1036" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12328767" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49947312" visible="true" weight="0.33110368" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49947312" visible="true" weight="0.33865452" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50052685" side_tool="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49947312" weight="0.32998884" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -309,7 +234,7 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -358,40 +283,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first_app/templates/first_app/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first_app/templates/first_app/navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first_app/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="61" lean-forward="true" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/first_app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="138">
           <caret line="8" column="50" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="50" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -399,10 +293,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first_app/templates/first_app/Index.html">
+    <entry file="file://$PROJECT_DIR$/first_app/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="35" />
+        <state relative-caret-position="115">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_app/templates/first_app/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -413,27 +327,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first_app/views.py">
+    <entry file="file://$PROJECT_DIR$/first_app/templates/first_app/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
+        <state>
+          <caret selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/first_app/templates/first_app/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="1978">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first_app/templates/first_app/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="23">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
