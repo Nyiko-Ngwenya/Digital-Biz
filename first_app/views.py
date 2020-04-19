@@ -54,3 +54,10 @@ def register(request):
             return redirect('login')
     context = {'form': form}
     return render(request, 'first_app/register.html',context)
+
+def project_list(request):
+    return  render(request, 'first_app/project-list.html')
+
+def project_detail(request, project_slug):
+    # Fetch the correct project
+    return  render(request, 'first_app/project-detail.html')
