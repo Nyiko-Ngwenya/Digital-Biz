@@ -1,10 +1,12 @@
-from django.shortcuts import render,redirect
+from django.shortcuts import render,redirect, get_object_or_404
 from django.http import HttpResponse
 from django.contrib.auth.forms import UserCreationForm
 from .forms import CreateUserForm
 from django.contrib import messages
 from django.contrib.auth import authenticate,login,logout
 from django.contrib.auth.decorators import login_required
+from .models import Project
+from django.views.generic import CreateView
 # from .forms import
 # Create your views here.
 
@@ -60,4 +62,10 @@ def project_list(request):
 
 def project_detail(request, project_slug):
     # Fetch the correct project
-    return  render(request, 'first_app/project-detail.html')
+    project = get_object_or_404(Project, slug = project_slug)
+    return  render(request, 'first_app/project-detail.html', {'project':project, 'expense_list':project.expenses.all()})
+
+class ProjectCreateView(CreateView):
+    model = Project
+    template_name = 'first_app/add-project.html'
+    fields = {'name','budget'}
