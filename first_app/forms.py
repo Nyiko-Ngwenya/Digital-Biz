@@ -8,3 +8,8 @@ class CreateUserForm(UserCreationForm):
     class Meta:
         model = User
         fields = ['username','email','password1','password1']
+
+class ExpenseForm(forms.Form):
+    title = forms.CharField()
+    amount = forms.IntegerField()
+    category = forms.CharField()
